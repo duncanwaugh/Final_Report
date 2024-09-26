@@ -9,10 +9,6 @@ This repository contains the code and implementation of a Deep Q-Network (DQN) f
 - [Scope](#scope)
 - [Objectives](#objectives)
 - [Code Architecture](#code-architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributors](#contributors)
 
 ## Project Overview
 
@@ -47,9 +43,4 @@ The project code is structured as follows:
 2. **Hyperparameter Optimization**: Optimization using Optuna for key variables such as learning rate, gamma, and network architecture.
 3. **Training and Evaluation**: Models are trained and evaluated in different environments, with performance tracked using metrics like reward and loss.
 
-## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
